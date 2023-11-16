@@ -1,0 +1,25 @@
+{
+  "name": "molelito",
+  "displayName": "Molelito",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+      "molelito",
+      "tailwind"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Molelito",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Molelito-color-theme.json"
+      }
+    ]
+  }
+}
